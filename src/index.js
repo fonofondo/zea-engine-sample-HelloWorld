@@ -1,10 +1,3 @@
-// Zea Engine Basic Hello World
-// mauro
-// Froi
-// Test
-
-import "./styles.css";
-
 const domElement = document.getElementById("app");
 
 const scene = new window.ZeaEngine.Scene();
