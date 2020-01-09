@@ -3,7 +3,7 @@ import "./styles.css";
 const domElement = document.getElementById("app");
 
 const scene = new window.ZeaEngine.Scene();
-scene.setupGrid(5.0, 50);
+scene.setupGrid(7.0, 50);
 
 const renderer = new window.ZeaEngine.GLRenderer(domElement);
 renderer.setScene(scene);
