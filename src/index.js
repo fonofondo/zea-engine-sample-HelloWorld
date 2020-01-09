@@ -1,3 +1,7 @@
+// Zea Engine Basic Hello World
+// mauro
+// Froi
+
 import "./styles.css";
 
 const domElement = document.getElementById("app");
